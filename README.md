@@ -1,4 +1,4 @@
-# Hey, I'm Alejandro
+# Absurd Philosopher
 
 <div align="center">
 
@@ -20,7 +20,7 @@ Currently exploring the intersection of traditional finance and prediction marke
 
 **Languages & Frameworks**
 ```python
-primary = ["Python", "JavaScript", "SQL"]
+primary = ["Python", "Rust", "JavaScript", "SQL"]
 frameworks = ["Flask", "Streamlit", "FastAPI"]
 ```
 
@@ -38,9 +38,9 @@ frameworks = ["Flask", "Streamlit", "FastAPI"]
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandorosumah-mansa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandorosumah-mansa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&count_private=true)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandorosumah-mansa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandorosumah-mansa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&count_private=true)
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alejandorosumah-mansa&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6E2E&currStreakLabel=2E9EF7)
 
