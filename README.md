@@ -38,7 +38,7 @@ frameworks = ["Flask", "Streamlit", "FastAPI"]
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandorosumah-mansa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandorosumah-mansa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&count_private=true&hide_rank=true)
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandorosumah-mansa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&count_private=true)
 
