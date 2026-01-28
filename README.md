@@ -1,4 +1,4 @@
-# Hey 👋 I'm Alejandro
+# Hey, I'm Alejandro
 
 <div align="center">
 
@@ -6,17 +6,17 @@
 
 </div>
 
-## 🎯 What I'm Building
+## What I'm Building
 
 Currently exploring the intersection of traditional finance and prediction markets. Building tools for data visualization, automated trading systems, and market analysis.
 
-### 🔥 Featured Projects
+### Featured Projects
 
 - **[prediction-market-baskets](https://github.com/alejandorosumah-mansa/prediction-market-baskets)** - Custom basket trading platform for prediction markets
 - **[dashboard_suppliers](https://github.com/alejandorosumah-mansa/dashboard_suppliers)** - Supply chain analytics dashboard
 - **[gervais_bot_telegram](https://github.com/alejandorosumah-mansa/gervais_bot_telegram)** - Telegram bot for market insights
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Frameworks**
 ```python
@@ -25,16 +25,16 @@ frameworks = ["Flask", "Streamlit", "FastAPI"]
 ```
 
 **Data & Visualization**
-- 📊 Plotly, PyGWalker, Pandas
-- 🗄️ PostgreSQL, AWS S3
-- ☁️ AWS Lambda, GitHub Actions
+- Plotly, PyGWalker, Pandas
+- PostgreSQL, AWS S3
+- AWS Lambda, GitHub Actions
 
 **Trading & Markets**
-- 📈 Prediction Markets (Polymarket, Kalshi)
-- 🤖 Automated Trading Systems
-- 📉 Market Data Analysis
+- Prediction Markets (Polymarket, Kalshi)
+- Automated Trading Systems
+- Market Data Analysis
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -46,17 +46,17 @@ frameworks = ["Flask", "Streamlit", "FastAPI"]
 
 </div>
 
-## 🎲 Philosophy Meets Code
+## Philosophy Meets Code
 
 > "The absurd is born of this confrontation between the human need and the unreasonable silence of the world." - Camus
 
 Building systems that embrace uncertainty rather than fight it. Markets are chaos - let's dance with it.
 
-## 🤝 Let's Connect
+## Let's Connect
 
-- 💼 Interested in TradFi × Prediction Markets
-- 🧠 Always down to discuss Camus, markets, or Python
-- 📫 Open to collaborations on trading systems & data viz
+- Interested in TradFi × Prediction Markets
+- Always down to discuss Camus, markets, or Python
+- Open to collaborations on trading systems & data viz
 
 ---
 
